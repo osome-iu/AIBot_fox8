@@ -37,7 +37,7 @@ Each line of the raw data file is a JSON object with the following schema:
 
 # Code
 
-We also share the code used to query [OpenAI's AI text editor](https://platform.openai.com/ai-text-classifier).
+We also share the code used to query [OpenAI's AI text editor](https://platform.openai.com/ai-text-classifier) in [query_openai_detector.py](query_openai_detector.py).
 
 # Citation
 
