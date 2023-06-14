@@ -1,7 +1,7 @@
 # Introduction
 This repo contains the code and information for the paper "Anatomy of an AI-powered malicious social botnet".
 
-We provide a case study on a Twitter botnet that use ChatGPT to generate negative/harmful content and promote suspcious websites.
+We provide a case study on a Twitter botnet, i.e., the fox8 botnet, that uses ChatGPT to generate negative/harmful content and promote suspcious websites.
 
 # Data release
 
@@ -19,6 +19,7 @@ The dataset contains the following accounts:
 | Human        | [varol-icwsm](https://doi.org/10.1609/icwsm.v11i1.14871) | 285 |
 
 For each account, we share up to 200 tweets from it.
+The tweet objects are in Twitter API V1.1 format.
 Each line of the raw data file is a JSON object with the following schema:
 
 ```json
