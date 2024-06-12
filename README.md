@@ -1,5 +1,5 @@
 # Introduction
-This repo contains the code and information for the paper "[Anatomy of an AI-powered malicious social botnet](https://arxiv.org/abs/2307.16336)".
+This repo contains the code and information for the paper "[Anatomy of an AI-powered malicious social botnet](https://doi.org/10.51685/jqd.2024.icwsm.7)".
 
 We provide a case study on a Twitter botnet, i.e., the fox8 botnet, that uses ChatGPT to generate negative/harmful content and promote suspcious websites.
 
@@ -43,10 +43,14 @@ We also share the code used to query [OpenAI's AI text editor](https://platform.
 # Citation
 
 ```bib
-@article{yang2023anatomy,
+@article{yang2024anatomy,
   title={Anatomy of an AI-powered malicious social botnet},
-  author={Yang, Kai-Cheng and Menczer, Filippo},
-  journal={Preprint arXiv:2307.16336},
-  year={2023}
+  author={Yang, Kaicheng and Menczer, Filippo},
+  journal={Journal of Quantitative Description: Digital Media },
+  volume={4},
+  url={https://journalqd.org/article/view/5848},
+  DOI={10.51685/jqd.2024.icwsm.7},
+  year={2024},
+  month={may}
 }
 ```
